@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 25
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,10 +69,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -121,7 +121,239 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: On (38x38)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -19}
+        - {x: 19, y: 0}
+        - {x: 0, y: 19}
+        - {x: -19, y: 0}
+      physicsShape:
+      - - {x: 0, y: -19}
+        - {x: 19, y: 0}
+        - {x: 0, y: 19}
+        - {x: -19, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09777d07c15654d4d915ad0d5493bed7
+      internalID: -1849393016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On (38x38)_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -19}
+        - {x: 19, y: 0}
+        - {x: 0, y: 19}
+        - {x: -19, y: 0}
+      physicsShape:
+      - - {x: 0, y: -19}
+        - {x: 19, y: 0}
+        - {x: 0, y: 19}
+        - {x: -19, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e189b52699c570e469d8b93b9884c081
+      internalID: -1912604216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On (38x38)_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -19}
+        - {x: 19, y: 0}
+        - {x: 0, y: 19}
+        - {x: -19, y: 0}
+      physicsShape:
+      - - {x: 0, y: -19}
+        - {x: 19, y: 0}
+        - {x: 0, y: 19}
+        - {x: -19, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc4ad1368dbc0b438213067dff67b74
+      internalID: 1000335409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On (38x38)_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -19}
+        - {x: 19, y: 0}
+        - {x: 0, y: 19}
+        - {x: -19, y: 0}
+      physicsShape:
+      - - {x: 0, y: -19}
+        - {x: 19, y: 0}
+        - {x: 0, y: 19}
+        - {x: -19, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b604da1cdbebe4a9c9cb631c1efd55
+      internalID: 318030867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On (38x38)_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -19}
+        - {x: 19, y: 0}
+        - {x: 0, y: 19}
+        - {x: -19, y: 0}
+      physicsShape:
+      - - {x: 0, y: -19}
+        - {x: 19, y: 0}
+        - {x: 0, y: 19}
+        - {x: -19, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539a93498eb026e4abf8988fcec02bd7
+      internalID: 98452575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On (38x38)_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -19}
+        - {x: 19, y: 0}
+        - {x: 0, y: 19}
+        - {x: -19, y: 0}
+      physicsShape:
+      - - {x: 0, y: -19}
+        - {x: 19, y: 0}
+        - {x: 0, y: 19}
+        - {x: -19, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409a01b1e94465942ba8fbd1179639f4
+      internalID: 1088602529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On (38x38)_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -19}
+        - {x: 19, y: 0}
+        - {x: 0, y: 19}
+        - {x: -19, y: 0}
+      physicsShape:
+      - - {x: 0, y: -19}
+        - {x: 19, y: 0}
+        - {x: 0, y: 19}
+        - {x: -19, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1f191cf35cb594484f47907c497264
+      internalID: 59529470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On (38x38)_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -19}
+        - {x: 19, y: 0}
+        - {x: 0, y: 19}
+        - {x: -19, y: 0}
+      physicsShape:
+      - - {x: 0, y: -19}
+        - {x: 19, y: 0}
+        - {x: 0, y: 19}
+        - {x: -19, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f748c5ff3476649a78bb1c1e7c2dfd
+      internalID: 957864864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +364,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      On (38x38)_0: -1849393016
+      On (38x38)_1: -1912604216
+      On (38x38)_2: 1000335409
+      On (38x38)_3: 318030867
+      On (38x38)_4: 98452575
+      On (38x38)_5: 1088602529
+      On (38x38)_6: 59529470
+      On (38x38)_7: 957864864
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

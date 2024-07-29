@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 25
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,10 +69,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -121,7 +121,210 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Appearing (96x96)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      physicsShape:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a31eeab217f5a9448884d0c40c3b5c5
+      internalID: -248915944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appearing (96x96)_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      physicsShape:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c515a7dac997d4489caa909ba3e247
+      internalID: 1975479602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appearing (96x96)_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      physicsShape:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbb018a0d3d630459b87a0c422c7ab8
+      internalID: -1545313085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appearing (96x96)_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      physicsShape:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99584ff16cbf984f81d45f3dec2ca9d
+      internalID: -898795819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appearing (96x96)_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      physicsShape:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2afc4c6001efed4ea703435b76d28f0
+      internalID: 520979876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appearing (96x96)_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      physicsShape:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3732e5c20b7bf6440ad0fb0ea58c10c1
+      internalID: 955598085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Appearing (96x96)_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      physicsShape:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee784b8093877f45ba020606ad99f18
+      internalID: -1765043556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +335,14 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Appearing (96x96)_0: -248915944
+      Appearing (96x96)_1: 1975479602
+      Appearing (96x96)_2: -1545313085
+      Appearing (96x96)_3: -898795819
+      Appearing (96x96)_4: 520979876
+      Appearing (96x96)_5: 955598085
+      Appearing (96x96)_6: -1765043556
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
